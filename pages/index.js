@@ -1,6 +1,5 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import headphones from '../public/headphones.jpg'
 import logo from '../public/logo.png'
 import storelogo from '../public/appstorelogo.png'
 import styles from '../styles/Home.module.css'
