@@ -46,14 +46,14 @@ export default function Home() {
         </div>
         <div className ={styles.firstTextBox}>
           <h2 className = {styles.secondText}>
-          <strong>Songs we Share<strong> lets you and your friends connect your 
+          <strong>Songs we Share</strong> lets you and your friends connect your 
           Spotify or Apple Music accounts and then scans 
           your playlists.
           </h2>
         </div>
         <div className ={styles.firstTextBox}>
           <h2 className = {styles.secondText}>
-          Then, <strong>Songs we Share<strong> recommends the most
+          Then, <strong>Songs we Share</strong> recommends the most
           common songs and allows you to play them
           directly from the app!
           </h2>
